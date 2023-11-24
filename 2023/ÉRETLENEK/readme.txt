@@ -1,0 +1,1 @@
+A program elindítása utan láthatja a leirásokat!
